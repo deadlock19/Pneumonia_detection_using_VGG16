@@ -12,12 +12,4 @@ To run the app
 ```python
 python app.py
 ```
-*NOTE: for running train.py, change the directory paths to the train,test and validation dir according to your project settings*
 
-You can see the reuslts below:
-
-
-![alt-text](https://github.com/anuj2110/pneumoniadetectionwebapp/blob/master/demo1.gif)
-
-
-![alt-text](https://github.com/anuj2110/pneumoniadetectionwebapp/blob/master/demo.gif)
