@@ -1,0 +1,38 @@
+{% extends 'index.html' %}
+
+{% block content%}
+<!-- <center><img src="{{ url_for('static', filename= filename) }}" alt="" style="width: 300px; height:300px;"></center> -->
+<link rel="stylesheet" href="{{url_for('static', filename='assets/css/theme.css')}}">
+<script>
+    function display_text(){
+        return alert("WE ARE PROCESSING YOUR REQUEST Please, Go Down to see the predicted result");
+    }
+</script>
+{% if show==True %}
+<center>
+
+    {% if message=="healthy" %}
+    <h3><span class="badge badge-success">{{message}}</span></h3>
+    {%endif%}
+
+    {% if message=="pneumonic" %}
+    <h3><span class="badge badge-danger">{{message}}</span></h3>
+    {%endif%}
+    <br>
+    <br>
+
+    <a href="/" class="btn btn-info" role="button">Go Back</a>
+</center>
+{% else %}
+<center>
+    <form action="/" method="POST" enctype="multipart/form-data">
+        <label for="file">Please Upload Image for Chest X-Ray: </label>
+        <input type="file" name="img" id="img">
+        <button type="submit" class="btn btn-primary ml-3" onclick="return display_text()">Predict</button>
+    </form>
+    <br>
+    <br>
+    {{message}}
+</center>
+{% endif %}
+{% endblock%}

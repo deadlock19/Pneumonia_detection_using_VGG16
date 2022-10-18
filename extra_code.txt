@@ -1,0 +1,87 @@
+ <!-- <nav class="navbar navbar-dark bg-dark" style="display:flex;justify-content:center">
+        
+          <a class="navbar-brand" href="/">
+              <center><p style="text-align: center;"><strong>Chest X-Ray Pneumonia Detection</strong></p></center>
+          </a>
+         
+        </nav>
+        <br>
+        <br> -->
+    
+
+
+      <!-- <section class="py-5">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 py-3">
+              </div>
+           
+
+              <h1 class="text-center">PRECAUTION TIPS</h1>
+            </div>
+          </div>
+        </div>
+      
+
+      </section>
+       -->
+      <!-- <section class="py-8">
+        <div class="bg-holder bg-size" style="background-image:url(assets/img/gallery/people-bg-1.png);background-position:center;background-size:cover;">
+        </div>
+
+        <div class="container">
+          <div class="row align-items-center offset-sm-1">
+            <div class="carousel slide" id="carouselPeople" data-bs-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active" data-bs-interval="10000">
+                  <div class="row h-100">
+                    <div class="col-sm-3 text-center"><img src="assets/img/Images/cough-removebg-preview.png" width="100" alt="" />
+                      <h5 class="mt-3 fw-medium text-secondary">Tip 1</h5>
+                      <p class="fw-normal mb-0">Sub title</p>
+                    </div>
+                    <div class="col-sm-9 text-center text-sm-start pt-3 pt-sm-0">
+                      <h2>Name of Tip</h2>
+                      <div class="my-2"><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star-half-alt me-2"></i><i class="far fa-star"></i></div>
+                      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus voluptatum placeat dignissimos quis mollitia molestiae iure aut fugiat itaque officiis dolore porro voluptatem error et sunt eum, ipsa, deserunt qui.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item" data-bs-interval="2000">
+                  <div class="row h-100">
+                    <div class="col-sm-3 text-center"><img src="assets/img/Images/virus-removebg-preview.png" width="100" alt="" />
+                      <h5 class="mt-3 fw-medium text-secondary">Tip 2</h5>
+                      <p class="fw-normal mb-0">Sub title</p>
+                    </div>
+                    <div class="col-sm-9 text-center text-sm-start pt-3 pt-sm-0">
+                      <h2>Name of tip</h2>
+                      
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia provident rem, facilis amet at iure asperiores maxime id laudantium animi pariatur iusto quia beatae assumenda explicabo, nihil distinctio excepturi ut?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="row h-100">
+                    <div class="col-sm-3 text-center"><img src="assets/img/Images/lungs_bg-removebg-preview.png" width="100" alt="" />
+                      <h5 class="mt-3 fw-medium text-secondary">Tip 3</h5>
+                      <p class="fw-normal mb-0">Sun title</p>
+                    </div>
+                    <div class="col-sm-9 text-center text-sm-start pt-3 pt-sm-0">
+                      <h2>Name of title</h2>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos omnis neque dolorum cumque magni reprehenderit odio consectetur? Eos, sit possimus culpa hic deserunt, eaque totam nemo, id quo libero consequatur!</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="position-relative z-index-2 mt-5">
+                  <ol class="carousel-indicators">
+                    <li class="active" data-bs-target="#carouselPeople" data-bs-slide-to="0"></li>
+                    <li data-bs-target="#carouselPeople" data-bs-slide-to="1"></li>
+                    <li data-bs-target="#carouselPeople" data-bs-slide-to="2"> </li>
+                  </ol>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section> -->
