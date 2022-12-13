@@ -1,15 +1,18 @@
-# pneumoniadetectionwebapp 🩺
+Pneumonia Detection using machine Learning (CNN - vgg16)🩺
 
-## Repository for the blog post series Building a web app to detect pneumonia from chest x-ray images.
+The model has accuracy around 92.5%, which became possible by the use of transfer learning, which allows us to use pre trained model to further optimise the accuracy of existing model.
 
-1. [File for the flask app](https://github.com/anuj2110/pneumoniadetectionwebapp/blob/master/app.py)
-2. [File for training the model](https://github.com/anuj2110/pneumoniadetectionwebapp/blob/master/train.py)
-3. [Trained model file](https://github.com/anuj2110/pneumoniadetectionwebapp/blob/master/model.h5)
+For this purpose vgg16 library from keras has been used which is based on convolutional Neural network (CNN)
 
-*The web is deployed on Azure. [You can access it here](https://pneumoniawebapp.azurewebsites.net/)*
+Technologies used-
+Python
+Flask
+Html, css, javascript, bootstrap
+Sqlite - sqlalchemy
 
-To run the app
-```python
-python app.py
-```
+ML approach-
+Transfer learning
 
+Dataset - 
+From kaggle, named us chest xrays by Paul moony
+that contains around 5800+ xrays images of children of age less then 5 years and females.
