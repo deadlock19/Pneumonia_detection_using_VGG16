@@ -16,3 +16,4 @@ Transfer learning
 Dataset - 
 From kaggle, named us chest xrays by Paul moony
 that contains around 5800+ xrays images of children of age less then 5 years and females.
+Link - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
